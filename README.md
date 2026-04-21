@@ -1,2 +1,1 @@
-# U-
-Only use to backup my USB
+It's a space to record my code.
